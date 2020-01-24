@@ -1,1 +1,17 @@
-theme: jekyll-theme-hacker
+tittle: "My new blog" 
+description: "Blog test created with the Jejyll hacker theme"
+url:"https://Angelica-.github.io./blog"
+signoff:"Angelica"
+
+Links: 
+-name:     Posts
+ url:      /
+ external: false
+-name:     Sobre mi 
+url:       about
+external:  false
+
+permalink:   /posts/:title
+defaults:
+-values:
+ layout:"default"
