@@ -1,4 +1,4 @@
 # Hello
 
-Mi nombre es Angelica Granados estoy muy interesada en aprender!!
+My name is Angelica Granados I am very interested in learning !!
 
