@@ -1,7 +1,7 @@
 tittle: "My new blog" 
 description: "Blog test created with the Jejyll hacker theme"
-url:"https://angelicamidominio.com-.github.io./blog"
-signoff:"Angelica"
+url: "https://angelicamidominio.com-.github.io./blog"
+signoff: "Angelica"
 
 Links: 
 -name:     Posts
@@ -14,4 +14,4 @@ external:  false
 permalink:   /posts/:title
 defaults:
 -values:
- layout:"default"
+ layout: "default"
