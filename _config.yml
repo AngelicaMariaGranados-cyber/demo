@@ -5,13 +5,15 @@ signoff: "Angelica"
 
 Links: 
 -name:     Posts
- url:      /
- external: false
+	url:      /
+	external: false
 -name:     Sobre mi 
-url:       about
-external:  false
+	url:       /about
+	external:  false
 
 permalink:   /posts/:title
+
 defaults:
 -values:
- layout: "default"
+	layout: "default"
+	
